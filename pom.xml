@@ -35,13 +35,13 @@
       <version>${slf4j.version}</version>
       <scope>test</scope>
     </dependency>
-
-<!--     <dependency>
+	  
+     <dependency>
       <groupId>ch.qos.cal10n.plugins</groupId>
       <artifactId>maven-cal10n-plugin</artifactId>
       <version>${cal10n.version}</version>
       <scope>test</scope>
-    </dependency> -->
+    </dependency> 
 
     <dependency>
       <groupId>org.slf4j</groupId>
